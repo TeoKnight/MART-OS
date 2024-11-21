@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\controls\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:controls\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\showtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\showtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\controls\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:controls\\text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\bgchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\bgchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\mart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:mart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\thelasttxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\thelasttxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|c:\\users\\fox_without_katana\\desktop\\mart\\mart\\mart-os\\windows\\render3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC6D229-E6E0-473E-8751-6FDC4C505FB9}|Mart.csproj|solutionrelative:windows\\render3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Controls\\Slider.cs",
+              "RelativeDocumentMoniker": "Controls\\Slider.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Controls\\Slider.cs",
+              "RelativeToolTip": "Controls\\Slider.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:49:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Text.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Controls\\Text.cs",
+              "RelativeDocumentMoniker": "Controls\\Text.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Controls\\Text.cs",
+              "RelativeToolTip": "Controls\\Text.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowIgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:53:56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowText.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\ShowText.cs",
+              "RelativeDocumentMoniker": "Windows\\ShowText.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\ShowText.cs",
+              "RelativeToolTip": "Windows\\ShowText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:36:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TheLastTxt.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\TheLastTxt.cs",
+              "RelativeDocumentMoniker": "Windows\\TheLastTxt.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\TheLastTxt.cs",
+              "RelativeToolTip": "Windows\\TheLastTxt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:24:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Snake.cs",
+              "RelativeDocumentMoniker": "Windows\\Snake.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Snake.cs",
+              "RelativeToolTip": "Windows\\Snake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:24:24.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Render3d.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Render3d.cs",
+              "RelativeDocumentMoniker": "Windows\\Render3d.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Render3d.cs",
+              "RelativeToolTip": "Windows\\Render3d.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:24:06.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Power.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Power.cs",
+              "RelativeDocumentMoniker": "Windows\\Power.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\Power.cs",
+              "RelativeToolTip": "Windows\\Power.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:23:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BgChange.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\BgChange.cs",
+              "RelativeDocumentMoniker": "Windows\\BgChange.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\BgChange.cs",
+              "RelativeToolTip": "Windows\\BgChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:19:09.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\About.cs",
+              "RelativeDocumentMoniker": "Windows\\About.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Windows\\About.cs",
+              "RelativeToolTip": "Windows\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:17:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Kernel.cs",
+              "RelativeDocumentMoniker": "Kernel.cs",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Kernel.cs",
+              "RelativeToolTip": "Kernel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:04:33.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mart.csproj",
+              "DocumentMoniker": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Mart.csproj",
+              "RelativeDocumentMoniker": "Mart.csproj",
+              "ToolTip": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Mart.csproj",
+              "RelativeToolTip": "Mart.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T15:49:01.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

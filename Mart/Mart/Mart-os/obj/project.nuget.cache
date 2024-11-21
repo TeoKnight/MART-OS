@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLRBTfWtYN4JdMbS0+3Qrx/pUQCO4cRyZakTdti3cMqAsk/JCsD8joqfjqrgIO7/RMfZje51oe93YttFXF5X8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fox_without_katana\\Desktop\\Mart\\Mart\\Mart-os\\Mart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240414055756\\cosmos.build.0.1.0-localbuild20240414055756.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240414055820\\cosmos.common.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240414055820\\cosmos.core.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240414055820\\cosmos.debug.kernel.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240414055820\\cosmos.hal2.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240414055820\\cosmos.plugs.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240414055820\\cosmos.system2.0.1.0-localbuild20240414055820.nupkg.sha512",
+    "C:\\Users\\fox_without_katana\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240414055820\\il2cpu.api.0.1.0-localbuild20240414055820.nupkg.sha512"
+  ],
+  "logs": []
+}

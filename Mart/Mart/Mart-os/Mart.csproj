@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <!--<RuntimeIdentifier>cosmos</RuntimeIdentifier>-->
+        <Platform>cosmos</Platform>
+        <SupportsX86Intrinsics>false</SupportsX86Intrinsics>
+        <SelfContained>True</SelfContained>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <EnableGDB>False</EnableGDB>
+        <StartCosmosGDB>False</StartCosmosGDB>
+        <VisualStudioDebugPort>Pipe: Cosmos\Serial</VisualStudioDebugPort>
+        <CosmosDebugPort>Serial: COM1</CosmosDebugPort>
+        <Launch>VMware</Launch>
+        <Profile>VMware</Profile>
+        <Description>Use VMware Player or Workstation to deploy and debug.</Description>
+        <PxeInterface>192.168.0.8</PxeInterface>
+        <DebugEnabled>False</DebugEnabled>
+        <CompileVBEMultiboot>True</CompileVBEMultiboot>
+        <VBEResolution>1024x768x32</VBEResolution>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Resourse\**" />
+      <EmbeddedResource Remove="Resourse\**" />
+      <None Remove="Resourse\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Resource\Applogos\calc.bmp" />
+      <None Remove="Resource\Applogos\gear.bmp" />
+      <None Remove="Resource\cur.bmp" />
+      <None Remove="Resource\error.bmp" />
+      <None Remove="Resource\startup.wav" />
+      <None Remove="Resource\zenith.bmp" />
+      <None Remove="Resource\zenithtext.bmp" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Resource\Applogos\calc.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\gear.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\paintIco.bmp" />
+      <EmbeddedResource Include="Resource\cur.bmp" />
+      <EmbeddedResource Include="Resource\error.bmp" />
+      <EmbeddedResource Include="Resource\startup.wav" />
+      <EmbeddedResource Include="Resource\zenith.bmp" />
+      <EmbeddedResource Include="Resource\zenithtext.bmp" />
+      <EmbeddedResource Include="Resource\bg.bmp" />
+      <EmbeddedResource Include="Resource\bg1.bmp" />
+      <EmbeddedResource Include="Resource\bg2.bmp" />
+      <EmbeddedResource Include="Resource\bg3.bmp" />
+      <EmbeddedResource Include="Resource\bg4.bmp" />
+      <EmbeddedResource Include="Resource\bg5.bmp" />
+      <EmbeddedResource Include="Resource\Body.bmp" />
+      <EmbeddedResource Include="Resource\Food.bmp" />
+      <EmbeddedResource Include="Resource\HeadDown.bmp" />
+      <EmbeddedResource Include="Resource\HeadLeft.bmp" />
+      <EmbeddedResource Include="Resource\HeadRight.bmp" />
+      <EmbeddedResource Include="Resource\HeadTop.bmp" />
+      <EmbeddedResource Include="Resource\wallpaper.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\about.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\snake.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\reset.bmp" />
+      <EmbeddedResource Include="Resource\Applogos\3d.bmp"/>
+      <EmbeddedResource Include="Resource\Applogos\change.bmp"/>
+      <EmbeddedResource Include="Resource\Applogos\txt.bmp"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Cosmos.Build" Version="0-*" NoWarn="NU1604" />
+        <PackageReference Include="Cosmos.Debug.Kernel" Version="0-*" NoWarn="NU1604" />
+        <PackageReference Include="Cosmos.System2" Version="0-*" NoWarn="NU1604" />
+        <PackageReference Include="Cosmos.Plugs" Version="0-*" NoWarn="NU1604" />
+      
+    </ItemGroup>
+
+</Project>

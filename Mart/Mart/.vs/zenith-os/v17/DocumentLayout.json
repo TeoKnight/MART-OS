@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mweri\\source\\repos\\Mart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\UITest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\InputField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\ImageView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\TestWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Mart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\About.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UITest.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\UITest.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\UITest.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\UITest.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\UITest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:59:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Power.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Power.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\Power.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Power.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\Power.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:59:01.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Label.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Label.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Controls\\Label.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Label.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Controls\\Label.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:58:07.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputField.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\InputField.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Controls\\InputField.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\InputField.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Controls\\InputField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:57:58.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageView.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\ImageView.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Controls\\ImageView.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\ImageView.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Controls\\ImageView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:57:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Control.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Controls\\Control.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Control.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Controls\\Control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:55:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Window.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\Window.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Window.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\Window.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:51:03.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Error.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\Error.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Error.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:50:21.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Calc.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\Calc.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\Calc.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\Calc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:50:04.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Kernel.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Kernel.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Kernel.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Kernel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:40:21.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Button.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Controls\\Button.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Controls\\Button.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Controls\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:54:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestWindow.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\TestWindow.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\TestWindow.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\TestWindow.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\TestWindow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:43:20.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mart.csproj",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Mart.csproj",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Mart.csproj",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Mart.csproj",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Mart.csproj",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T19:47:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\About.cs",
+              "RelativeDocumentMoniker": "..\\zenith-master\\zenith-os\\Windows\\About.cs",
+              "ToolTip": "C:\\Users\\mweri\\source\\repos\\zenith-master\\zenith-os\\Windows\\About.cs",
+              "RelativeToolTip": "..\\zenith-master\\zenith-os\\Windows\\About.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T19:44:06.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
